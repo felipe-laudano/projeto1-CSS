@@ -120,6 +120,12 @@ p {
     padding: 40px;
 }
 
+.title-insp {
+    width: 1000px;
+    margin: 1px;
+    display: flex;
+}
+
 .inspiration {
     width: 480px;
     background-color: rgba(4, 0, 59, 0.6);
@@ -131,7 +137,6 @@ p {
     border-radius: 12px;
     border-style: groove;
     border-color: var(--secondary-color);
-    display: flex;
 }
 
 .inspiration img {
